@@ -1733,6 +1733,7 @@ GameObject:
   - component: {fileID: 4540807533742696428}
   - component: {fileID: 4540807533751733756}
   - component: {fileID: 4540807534552818408}
+  - component: {fileID: -1947287865371600344}
   m_Layer: 0
   m_Name: Animal_Horse_Brown
   m_TagString: Untagged
@@ -1792,6 +1793,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+--- !u!114 &-1947287865371600344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4540807533742507828}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0b8c2c79dd625c49a91e2742b58b75f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4540807533742514030
 GameObject:
   m_ObjectHideFlags: 0
